@@ -1,0 +1,7 @@
+[Update]
+Name=School Management System
+ProductVersion=1.2.0
+URL=https://www.dropbox.com/scl/fi/8yiztngc2k14hp2klu1d4/update.exe?rlkey=gbsrfus548f87shwlgpioqzke&st=6nsy7jhw&dl=1
+Size=12345678
+MD5=5adc42dc18654dbfefdc8d12cd00a8e1
+ServerFileName=update.exe
